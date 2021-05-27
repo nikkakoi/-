@@ -1,0 +1,6 @@
+D:\Решеные работы\Фриланс\KNU\Ducks\bin\Debug\Ducks.exe.config
+D:\Решеные работы\Фриланс\KNU\Ducks\bin\Debug\Ducks.exe
+D:\Решеные работы\Фриланс\KNU\Ducks\bin\Debug\Ducks.pdb
+D:\Решеные работы\Фриланс\KNU\Ducks\obj\Debug\Ducks.csprojAssemblyReference.cache
+D:\Решеные работы\Фриланс\KNU\Ducks\obj\Debug\Ducks.exe
+D:\Решеные работы\Фриланс\KNU\Ducks\obj\Debug\Ducks.pdb
